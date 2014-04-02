@@ -1,0 +1,7 @@
+/app.conf
+/target
+/app.log
+/.classpath
+/.project
+/.gitignore
+/.settings
